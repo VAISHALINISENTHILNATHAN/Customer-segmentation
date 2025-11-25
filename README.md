@@ -1,6 +1,6 @@
 🛒 Customer Segmentation Dashboard
 
-An interactive, multi-page Streamlit dashboard for RFM-based customer segmentation, clustering, and automated insights. Designed to analyze online retail data, identify valuable customer segments, and provide actionable business intelligence — perfect for portfolio projects or recruiter demos.
+An interactive, multi-page Streamlit dashboard for RFM-based customer segmentation, clustering, and automated insights. Designed to analyze online retail data, identify valuable customer segments, and provide actionable business intelligence 
 
 🔹 Key Features
 
